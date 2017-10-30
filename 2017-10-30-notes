@@ -25,7 +25,7 @@
 
 1. Text analysis is a process that allows for information to be apprehended from data as means to track, identify, and compare patterns and trends to work towards a conclusion. 
 
-* the deinition is complexe and we might not get a complete definition 
+* the definition is complexe and we might not get a complete definition 
 
 ### Discilinary fears
 * Close reading vs distant reading
@@ -39,6 +39,20 @@
 * 10 most commonly used works 
 * # of times they show up: said (11), users (8), drug (7), health (7),drugs (5), opioid (5), ottawa (5), turnbull (5), city (city), month (4) 
 * We do get some context and content for words, it is a list of random words, it needs context
-* 
 
 ### Tools 
+* Word cloud - most commonly used
+* sentiment data - context is important; used to sell products to people
+* AntConc - free; different results based on different things you want to analyze
+* all tools have own uses and limitations; choose based on what you are studying
+* Collocates of data - in opposition
+* Corpus - word clouds, frequencies, etc. more pink a word is the more it's used
+
+### Summary
+* Look at data from large body of text 
+* Conclusions that we wouldn't get just  on our own
+* chose the one that works with your research
+* 
+
+
+
