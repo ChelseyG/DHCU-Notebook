@@ -7,4 +7,4 @@ In preparation for next class, please do the following:
 
 ## Readings:
 1. [Digital Surrealism: Visualizing Walt Disney Animation Studios](http://www.digitalhumanities.org/dhq/vol/11/1/000276/000276.html)
-2. 2-3 of your choice unless specified at a later date 
+2. Your choice of others 
