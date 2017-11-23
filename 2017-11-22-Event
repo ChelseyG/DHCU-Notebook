@@ -30,10 +30,37 @@ Borrowing from other disciplines and applying it to our field of study
   * emotional responses and sublimating the self
   * goal was to overwhelme the senses to annihilate 'Self'
  * Make sense of thousands of documents at a time vs what off-laoding meaning-making to an algorithm does to our sense of humanity
- 
- 
- 
-* the dangers of borrowing
-* how topic models work(ish)
+ * Know what the method does in order to understand what we are seeing
+ * Treat the algorithm as neutral but we need to avoid that
+  
+# The dangers of borrowing
+* The Critical Difference: Justification versus Discovery
+* Using computation 
+* Way of bridging what we find and the story we want to tell
+* Majority want to do statistically grounded work, but not necessarily about the truth but about seeing things in new ways
+
+# How topic models work(ish)
+* For Discoveries, not for justification
+* Different groups representing a different topic
+* Decomposes the documents into the number of groups identified
+* Voyant tools
+* Probabolistic sampling
+* Topic models works out of the context (for words like lead)
+* Have a distribuion over words
+* dostribution over topics
+* we guess number of topics
+* estimate the probabilities
+* estimate the likelihood if it's a good topic or not
+* Looking year after year you can see how things become part of the conversation or fall out of the conversation
+* evolution of scholarship overtime
+* graeworks.net
+* How do you visualize a topic model? 
+ * focus on those that are really strong
+* Historians most often use topic models for data with a strong chronological elemetn to understand change over time, and to challenge periodization
+
+
+
+
+
 * fun things to do with this magical method
 * where we go from here
