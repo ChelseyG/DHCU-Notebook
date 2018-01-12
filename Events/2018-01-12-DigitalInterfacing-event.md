@@ -48,3 +48,7 @@ New presentation of the books
  * Issue of preservation for the interfaces
  * effort not to lose data, but not always to preserve the interface
  
+think about the layers too descritly - think more about how they interact closely
+importance of user testing
+new medium asks new quetions about the past
+change perspectives? like video game...
