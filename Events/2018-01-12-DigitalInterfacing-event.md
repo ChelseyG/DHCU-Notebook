@@ -32,4 +32,19 @@ New presentation of the books
   * try different spelling arrangements 
   * still need researchers to build a corpus 
  ability to help us read text in a new way
- * 
+ * l'Alcoran de Louis XIV Les deux Morts
+ * Read with eye of theatre audience
+ * available to students
+ * raise curiousity 
+ * Les Nouvelles Nouvelle
+ * familiar to 17th audience
+ * footnotes included within - prevents having to scroll down and come back 
+ * Gallica vs Google Books
+ * Notion to another like in Wikipedia
+ * efficient and always available
+ * interface virtual reality 
+ * Theatrical - reading with eyes of audience
+ * Comedie Francais interactive Seating Charte
+ * Issue of preservation for the interfaces
+ * effort not to lose data, but not always to preserve the interface
+ 
