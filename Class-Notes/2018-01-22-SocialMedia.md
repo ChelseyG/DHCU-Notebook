@@ -55,6 +55,19 @@
   * Ghostory - how many trackers will show up 
  ## Social Responsibility
  * Do they have a social responsibility? Yes, they should know their power
- 
+ * Social and legal responsibility are different 
+ * The rundown with Robin Thede
+## Value Making
+* scholars and activits movements
+ * breaking down barriers
+ * relationship might not always be visible 
+ * public doesn't see experts as experts anymore
+ * Truth decay
+## Activity
+* Trools: Clear intent, subjectivity, agency, uproar, agitators, 
+* Bots: intent and ambiguity, automated 
+* https://botometer.iuni.iu.edu/#!/
+* White house shutdown
+ * 
  
  Next week: Public Humanities
