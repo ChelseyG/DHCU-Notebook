@@ -68,6 +68,12 @@
 * Bots: intent and ambiguity, automated 
 * https://botometer.iuni.iu.edu/#!/
 * White house shutdown
- * 
- 
+
+Documenting the now - how to study social media and draw actual conclusion 
+tools: 
+Twarc: 
+* twitter archiving
+* install python
+* pip install twarc
+
  Next week: Public Humanities
